@@ -10,15 +10,16 @@ This design comes with an EC11 Rotary encoder for volume control, and 9 keyswitc
 
 ## Full Assembly in Cad:
 
-![Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![Screenshot](https://i.postimg.cc/pV0PJyrs/Screenshot-2026-03-16-at-6-27-39-PM.png)
 
 ## PCB:
 
-![Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![Screenshot](https://i.postimg.cc/DzVv4D0n/Screenshot-2026-03-16-at-6-26-59-PM.png)
 
 ## Schematics:
 
-![Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![Screenshot](https://i.postimg.cc/HL5LSmR2/Screenshot-2026-03-16-at-6-25-31-PM.png)
+
 
 ## BOM:
 - Seeed XIAO RP2040 x1
